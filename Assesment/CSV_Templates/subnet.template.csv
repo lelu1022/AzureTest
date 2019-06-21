@@ -1,0 +1,5 @@
+subnetname,subnetprefix
+Vnet1123,10.3.0.0/16
+SecurityUntrust,10.3.2.0/28
+Side_A,10.3.3.0/28
+Side_B,10.3.4.0/24
